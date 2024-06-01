@@ -1,0 +1,28 @@
+nav{
+    background-color: rgb(255, 176, 127);
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo{
+    color: black;
+    font-weight: bold;
+}
+
+.nav-links{
+    color: blue;
+    text-decoration: none;
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background-color: #df8a8a;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}

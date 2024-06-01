@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.b1694d0986da0b5ff588e4c43b909bac?rik=Vl8MdI7prn8OvQ&riu=http%3a%2f%2feskipaper.com%2fimages%2fhigh-resolution-backgrounds-35.jpg&ehk=Jj38YXYzvIj4yHHJ2in2NcijUBm31%2fXp0iDIScQ8NSM%3d&risl=&pid=ImgRaw&r=0);
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #444245;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin-top: 0;
+    text-align: center;
+    color: #f6c569;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+   color: rgb(231, 191, 139);
+  }
+  
+  label {
+    display:block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 96%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: bisque;
+  }
+  
+  textarea {
+    resize: vertical;
+    background-color:bisque
+
+  }
+  
+  button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #eb9019;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #df9b13;
+  }

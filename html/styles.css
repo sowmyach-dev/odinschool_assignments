@@ -1,0 +1,54 @@
+.first-letter-big::first-letter{
+
+    font-size:  300%;
+    font-style: italic;
+    color: rgb(115, 142, 142);
+    font-weight: bold;
+   
+}
+p{
+    
+    margin: 5%;
+    
+}
+.container{
+  background-color:powderblue;
+  font-style: italic;
+  text-align: center;
+  color: rgb(24, 112, 207);
+  border: px s1olid #000;
+  border-width: 2px;
+  border-style:double;
+  border-color: rgb(21, 49, 49);
+}
+table{
+    width :100%;
+    border-collapse: collapse;
+    background-image:url(https://static.vecteezy.com/system/resources/previews/000/190/601/original/watercolour-texture-background-vector.jpg)
+    
+}
+th, td{
+    border: 1px solid #010d0a;
+    padding : 8px;
+    text-align: center;
+    
+
+}
+
+th{
+    background-color: #97bac2;
+}
+.player-img{
+    max-width: 100px;
+    height: 100px;
+}
+a {
+    color: #007bff; 
+    text-decoration: underline;
+    transition: color 0.3s ease; 
+}
+
+
+a:hover {
+    color: #0056b3;
+}

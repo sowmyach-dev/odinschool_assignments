@@ -1,0 +1,120 @@
+.flex-container1 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    flex-direction: row;
+    background-color: antiquewhite;
+
+}
+.flex-container2 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    flex-direction: row-reverse;
+    background-color: antiquewhite;
+
+}
+.flex-container5 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content: center;
+    background-color: antiquewhite;
+
+}
+.flex-container6 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content:space-between;
+    background-color: antiquewhite;
+
+}
+.flex-container7 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content:space-around;
+    background-color: antiquewhite;
+
+}
+.flex-container8 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content:space-evenly;
+    background-color: antiquewhite;
+
+}
+.flex-container3 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    flex-direction: column;
+    background-color: antiquewhite;
+
+}
+.flex-container4 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    flex-direction: column-reverse;
+    background-color: antiquewhite;
+
+}
+.flex-container9 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content:right;
+    background-color: antiquewhite;
+
+}
+.flex-container10 {
+    display: flex;
+    padding: 10px;
+    border: 40px;
+    margin: 50px;
+    justify-content:left;
+    background-color: antiquewhite;
+
+}
+
+.flex-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    background-color: aqua;
+
+}
+.flex-itemm {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    background-color: #f18b8b;
+
+}
+.flex-item3 {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    background-color: rgb(165, 239, 214);
+
+}
+.flex-item4 {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    background-color: cadetblue;
+
+}
+
